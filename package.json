@@ -1,0 +1,14 @@
+{
+  "name": "cystackdemo",
+  "version": "1.0.0",
+  "description": "cypress automation for stackbrowse",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "author": "Jan Svehlak",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.7.2"
+  }
+}
